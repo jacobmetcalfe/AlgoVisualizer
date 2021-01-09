@@ -12,6 +12,8 @@
 
 ## Description
 Will be a website to view algorithms. Only have Bubble sort at the moment. Next algorithms to be added located in [Roadmap](#Roadmap)
+Possible plans to view in different deviations such as sorted, unsorted. Currently uses an algorithm to generate random numbers using a normal distribution.
+
 
 ## Roadmap
 - Quick Sort
