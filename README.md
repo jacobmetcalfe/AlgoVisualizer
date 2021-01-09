@@ -14,4 +14,9 @@
 Will be a website to view algorithms. Only have Bubble sort at the moment. Next algorithms to be added located in [Roadmap](#Roadmap)
 
 ## Roadmap
-- 
+- Quick Sort
+- Insertion Sort
+- Merge Sort
+- Dijkstra's Algorithm
+- Prim's Algorithm
+- Knapsack Algorithm
