@@ -1,7 +1,7 @@
 <h1 align="center"> AlgoVisualizer</h1> <br>
 </h1> <br>
 <p align="center">
-  <img alt="Random Gif" title="Gif" src="./bubbleSort.gif" width="200" height="200">
+  <img alt="Random Gif" title="Gif" src="./bubbleSort.gif" width="600" height="400">
 </p>
 
 ## Table of Contents
