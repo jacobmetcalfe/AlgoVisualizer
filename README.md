@@ -1,5 +1,3 @@
-# AlgoVisualizer
-
 <h1 align="center"> AlgoVisualizer</h1> <br>
 </h1> <br>
 <p align="center">
